@@ -2,7 +2,7 @@
 
 Compressed Crack is a simple tool to help you crack password zip and rar files.
 
-Author: Thanh Minh
+Author: Chayan Datta
 
 ## Requirements:
 
